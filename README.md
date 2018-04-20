@@ -26,6 +26,9 @@
 Как это выглядит - https://www.youtube.com/watch?v=X6_jvjkr46k
 Почему именно такой формат: он позволяет организовать участников, веселый, способствует конвертации [коллег в друзей](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness)
 
+#### Slack
+[Slack для тех, кто хочет отметить централизовано в своем городе.](https://join.slack.com/t/jsdevday/shared_invite/enQtMzUxMzg1NTQ1MzUxLWVmNmY3NzAxMzUxNWQzMDU0Njk4MTViY2M1NjczNWM0NWVjYjUxZTY5YTEzMThkNTBhYjkzYTNiMTc0OGQxY2U)
+
 #### Еще идеи:
 - Отмечать каждый из 10 дней разработки языка. Например, организовав challenge
 - Целый день пить пиво и писать на jquery :)
@@ -34,7 +37,6 @@
 - Придумать слоган ?
 - Логотип ?
 - Список локаций, в которых поддерживается?
-- Слак для тех, кто хочет отметить централизовано в своем городе. Один slack, в котором отдельные каналы для городов.
 - Митап по CoreJS перед Pub Quiz/BeerJS
 - Прикрепить reminder для outlook/gmail
 - Страница на FB
