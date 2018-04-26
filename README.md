@@ -1,55 +1,31 @@
-### JavaScript Developer Day 25-MAY-2018 #jsdevday 
-#### *Версия 0.2.1* 
+# JavaScript Developer Day 
+### 25-MAY-2018 #jsdevday 
+ 
+**What**: Let's celebrate the JavaScript Developer Day.  
+**Date**: Variable, The Last Friday in May as "Brendan Eich wrote JavaScript in 10 days, in May 1995" @Wikipedia  
+**2018 date**: 25 May  
+**Hashtag**: #jsdevday
 
-Идея: Отметить день JavaScript.
+#### Attributes/Symbols/Celebration:
+  - wearing yellow
+  - **spider monkey** and **bananas** in honor of the first JavaScript engine - [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey). 
+  - **rhino** in honor of the [Rhino](https://github.com/mozilla/rhino), and cover paper of the first "bible" of JavaScript programmer - [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do)
+  - drinking Mochaccino. Mocha - is original name of JavaScript.  
+  - attending local **BeerJS** or **JavaScript Pub Quiz** 
 
-Название праздника: JavaScript Developer Day
-
-Хэштег: #jsdevday
-
-Когда отмечаем: Последняя пятница мая. "Brendan Eich wrote JavaScript in 10 days, in May 1995" @Wikipedia  
-В этом году выпадает на 25 мая.   
-
-Атрибутика/Символика праздника: 
-- желтый цвет (например, в одежде).  
-- [Spider monkey](https://en.wikipedia.org/wiki/Spider_monkey) и **бананы** в честь первого JavaScript engine - SpiderMonkey. 
-- [Rhino](https://en.wikipedia.org/wiki/Rhinoceros) в честь js движка [Rhino](https://github.com/mozilla/rhino), а также обложки "библии" JS - [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do)
-- Кофе [mochaccino](https://en.wikipedia.org/wiki/Caff%C3%A8_mocha). Mocha - первое имя языка.  
-
-Как отмечать:
-- одеваемся в желтое 
-- дарим бананы
-- пьем моккачино
-- проводим/участвуем в [Pub Quiz](https://en.wikipedia.org/wiki/Pub_quiz) по JavaScript/Front-end тематике
-
-#### Pub Quiz (BeerJS как fallback) 
-Описание - https://github.com/js-day/js-day/blob/master/js-dev-day-pub-quiz.md
-Почему именно такой формат: он позволяет организовать участников, веселый, способствует конвертации [коллег в друзей](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness)
-
-#### Slack
-[Slack для тех, кто хочет отметить централизовано в своем городе.](https://join.slack.com/t/jsdevday/shared_invite/enQtMzUxMzg1NTQ1MzUxLWVmNmY3NzAxMzUxNWQzMDU0Njk4MTViY2M1NjczNWM0NWVjYjUxZTY5YTEzMThkNTBhYjkzYTNiMTc0OGQxY2U)
-
-#### Мотивация:
-В марте ко мне подошли дети и сказали, что они в школе собираются праздновать День Святого Патрика и нужна одеться во что-то зеленое. Показали инфографику.  
-В результате появились мысли. Сам потратил более 10 лет жизни на JS и еще непонятно сколько потрачу,  есть тысячи JS разработчиков по всему миру, один из самых популярных языков, “ассемблер” для веб и все дела, а праздника нет. 
+#### Why?
+One day In March my children came to me and said that they were going to celebrate Saint Patrick's Day and were looking for green clothes. They also showed infographics (below).  
+After that I thought "Why we don't celebrate JavaScript Developers day?". I have been working with JS for over 10 years like thousands of others JS developers around the world. But we have never celebrated it.  
+So let's fix it!
 ![St. Patrick's Day](http://varabei.com/public/IMG_1057.jpg)
 
-#### Похожие праздники:
+#### Links:
 - https://en.wikipedia.org/wiki/System_Administrator_Appreciation_Day
 - https://en.wikipedia.org/wiki/Day_of_the_Programmer
 
-#### Еще идеи:
-- Отмечать каждый из 10 дней разработки языка. Например, организовав challenge
-- Целый день пить пиво и писать на jquery :)
-- Сделать лендинг праздника
-- Закинуть на сайт advent calendar для каждого из дней
-- Придумать слоган ?
-- Логотип ?
-- Список локаций, в которых поддерживается?
-- Митап по CoreJS перед Pub Quiz/BeerJS
-- Прикрепить reminder для outlook/gmail
-- Страница на FB
-- Флешмоб/челлендж/конкурс?
-- Заодно отметить пятилетие сообщества The Rolling Scopes. Первый митап прошел 21 мая 2013 года.
-- ...
+## If you want to hold and orginize the JavaScript Pub Quiz in your city
+Since this year we will not have time to organize a carnival :smile:, so I propose to prepare JS Pub Quiz which can be used in different locations on the same day.  
+**Description/Rules** https://github.com/js-day/js-day/blob/master/js-dev-day-pub-quiz.md  
+**Why this format** It allows to organize participants, facilitates the conversion of [colleagues into friends](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness)  
+**Slack channel** - [Join our slack channel about JSDay preparation and celebration](https://join.slack.com/t/jsdevday/shared_invite/enQtMzUxMzg1NTQ1MzUxLWVmNmY3NzAxMzUxNWQzMDU0Njk4MTViY2M1NjczNWM0NWVjYjUxZTY5YTEzMThkNTBhYjkzYTNiMTc0OGQxY2U)
 
