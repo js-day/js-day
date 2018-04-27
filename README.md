@@ -8,7 +8,7 @@
 **Hashtag**: #jsdevday
 
 #### Attributes/Symbols/Celebration:
-  - wearing yellow
+  - wearing yellow/orange
   - **spider monkey** and **bananas** in honor of the first JavaScript engine - [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey). 
   - **rhino** in honor of the [Rhino](https://github.com/mozilla/rhino), and cover paper of the first "bible" of JavaScript programmer - [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do)
   - drinking Mochaccino. Mocha - is original name of JavaScript.  
