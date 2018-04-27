@@ -30,5 +30,7 @@ Since this year we will not have time to organize a carnival :smile:, so I propo
 **Why this format** It allows to organize participants, facilitates the conversion of [colleagues into friends](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness)  
 **Slack channel** - [Join our slack channel about JSDay preparation and celebration](https://join.slack.com/t/jsdevday/shared_invite/enQtMzUxMzg1NTQ1MzUxLWVmNmY3NzAxMzUxNWQzMDU0Njk4MTViY2M1NjczNWM0NWVjYjUxZTY5YTEzMThkNTBhYjkzYTNiMTc0OGQxY2U)
 
-#### Graphic assets
+## Graphic assets
 [Samples of the posters, stickers, etc](https://drive.google.com/drive/folders/1w7EhVQSKogEPens61yQS13FCyv8rCIV9)
+
+![JSDevDay Stickers](http://varabei.com/public/jsdevday-stickers.jpg)
