@@ -5,7 +5,8 @@
 **What**: Let's celebrate the JavaScript Developer Day.  
 **Date**: Variable, The Last Friday in May as "Brendan Eich wrote JavaScript in 10 days, in May 1995" @Wikipedia  
 **2018 date**: 25 May  
-**Hashtag**: #jsdevday
+**Hashtag**: #jsdevday  
+**Facebook page**: https://www.facebook.com/jsdevday/
 
 #### Attributes/Symbols/Celebration:
   - wearing yellow/orange
