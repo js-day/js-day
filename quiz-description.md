@@ -1,5 +1,4 @@
-# Quiz “JS Jungle”
-## Rules
+# “JS Jungle” quiz description
 
 ### Participation
 It is a team competition. If you don't have a team - don't worry, you can join our special "MIXED" team during the event.
